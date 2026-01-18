@@ -1,2 +1,3 @@
-# example1
-basics
+this is my first git repository
+<br>
+Author - krishhna Rathod
